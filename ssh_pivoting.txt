@@ -17,3 +17,4 @@
  ## For redirect localhost to remote server
   ssh -L 9000:localhost:5432 user@example.com
   ssh -N -L localPort:rdsHost:remotePort user@remoteHost -i ~/path/to/key
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
